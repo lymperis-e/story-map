@@ -23,7 +23,7 @@ body {
 }
 
 #contents {
-  background-image: url(../media/crete.jpg);
+  background-image: url(../media/crete.jpg) !important ;
   padding: 0;
   width: 100%;
   margin-top: 0; /*Adjust if Title header needs more space */
@@ -153,7 +153,7 @@ a.source:visited {
   text-align: center;
   padding: 10px;
   max-width: 100%;
-  background-image: url(../media/crete.jpg);
+  background-image: url(../media/crete.jpg)  !important ;
 }
 
 #logo img {
@@ -166,7 +166,7 @@ a.source:visited {
   top:0px;
   padding: 5px 0;
   text-align: center;
-  background-image: url(../media/crete.jpg);
+  background-image: url(../media/crete.jpg)  !important ;
 }
 
 /* Storymap title & subtitle */
